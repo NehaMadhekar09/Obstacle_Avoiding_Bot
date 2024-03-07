@@ -1,4 +1,4 @@
-# walker_bot
+# Obstacle Avoiding Robot
 
 ## Overview
 This repository contains a simple obstacle avoidance algorithm much like a Roomba robot vacuum cleaner. The turtlebot moves forward until it reaches an obstacle, then rotate in place until the way ahead is clear, then move forward again and repeat.This is demonstrated in gazebo world. 
